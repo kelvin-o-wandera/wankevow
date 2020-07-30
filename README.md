@@ -14,6 +14,7 @@
 [<img align="left" alt="Kelvin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Kelvin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
 
 ### Languages and Tools:
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
@@ -32,6 +33,8 @@
 
 <br />
 <br />
+
+---
 
 <img align="left" alt="kelvin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wankevow&show_icons=true&hide_border=true" />
 
