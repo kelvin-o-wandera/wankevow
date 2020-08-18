@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer!
 - 🔭 I’m currently working on a react.js and deno.js project
-- 🌱 I’m currently learning deno.js and react.js material ui 🤣
+- 🌱 I’m currently learning deno.js and Tailwind CSS to help me prototype faster with production ready UI examples 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Start to contribute to Open Source projects
 - ⚡ Fun fact: I love to travel and listening to music
