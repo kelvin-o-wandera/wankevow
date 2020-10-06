@@ -1,8 +1,8 @@
 ### Hi there, I'm Kelvin 👋
 
 ## I'm a Software Engineer!
-- 🔭 I’m currently working on a react.js and deno.js project
-- 🌱 I’m currently learning deno.js and Tailwind CSS to help me prototype faster with production ready UI examples 🤣
+- 🔭 I’m currently working on a server side rendering project with nextjs
+- 🌱 I’m currently learning material ui and Tailwind CSS to help me prototype faster with production ready UI examples 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Start to contribute to Open Source projects
 - ⚡ Fun fact: I love to travel and listening to music
@@ -11,7 +11,7 @@
 
 
 [<img align="left" alt="Kelvin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kelvin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Kelvin | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Kelvin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
