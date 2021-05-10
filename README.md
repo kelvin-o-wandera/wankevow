@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer!
 - 🔭 I’m currently working on a server side rendering project with nextjs
-- 🌱 I’m currently learning material ui and Tailwind CSS to help me prototype faster with production ready UI examples 🤣
+- 🌱 I’m currently learning fast api 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Start to contribute to Open Source projects
 - ⚡ Fun fact: I love to travel and listening to music
